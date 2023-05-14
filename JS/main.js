@@ -5,7 +5,7 @@
     //===== Prealoder
 
     window.onload = function () {
-        window.setTimeout(fadeout, 50);
+        window.setTimeout(fadeout);
     }
 
     function fadeout() {
